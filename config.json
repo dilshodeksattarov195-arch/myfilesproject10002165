@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasespdate",
+        "uuid": 2190980,
+        "checksum": "ifsnm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
